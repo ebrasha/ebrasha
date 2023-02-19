@@ -5,3 +5,5 @@
 - 📫 How to reach me: Prof.Shafiei@Gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrasha&show_icons=true&theme=transparent)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrasha&hide_progress=true)](https://github.com/ebrasha/github-readme-stats)
