@@ -15,8 +15,7 @@
  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ebrasha)
-<p align="center">
-  <a href="https://skillicons.dev">
+<p>
     <img src="https://skillicons.dev/icons?i=c,cs,php,powershell,bash,cpp,django,git,go,java,kubernetes,laravel,mysql,postgres,postman,py,js,html,css,bsd,linux,tailwind,unity,webpack,wordpress,arduino,raspberrypi,redux,react,nextjs,nginx,sqlite,nodejs,gitlab,github,electron,docker,bootstrap,qt,regex,kotlin,visualstudio" />
-  </a>
+
 </p>
