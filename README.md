@@ -15,6 +15,8 @@
  
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ebrasha)
-
-<h3 align="left">The languages and tools I work with:</h3>
- [![My Skills](https://skillicons.dev/icons?i=c,cs,php,powershell,bash,cpp,django,git,go,java,kubernetes,laravel,mysql,postgres,postman,py,js,html,css,bsd,linux,tailwind,unity,webpack,wordpress,arduino,raspberrypi,redux,react,nextjs,nginx,sqlite,nodejs,gitlab,github,electron,docker,bootstrap,qt,regex,kotlin,visualstudio)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cs,php,powershell,bash,cpp,django,git,go,java,kubernetes,laravel,mysql,postgres,postman,py,js,html,css,bsd,linux,tailwind,unity,webpack,wordpress,arduino,raspberrypi,redux,react,nextjs,nginx,sqlite,nodejs,gitlab,github,electron,docker,bootstrap,qt,regex,kotlin,visualstudio" />
+  </a>
+</p>
