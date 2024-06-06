@@ -1,15 +1,8 @@
 - 👋 Hi, I’m Ebrahim Shafiei (EbraSha) 
-- 👀 I’m interested in AI, Cybersecurity And Programming
-- 🌱 I like to learn. That's an art and a science.(Katherine Johnson)
+- 👀 I’m interested in AI, cybersecurity, and programming.
+- 🎤 "Coding is an engaging and beloved hobby for me. I passionately and insatiably pursue knowledge in cybersecurity and programming." Ebrahim Shafiei (EbraSha)
 - 💞️ I’m looking to collaborate on Any type of security project
 - 📫 How to reach me: Prof.Shafiei@Gmail.com
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebrasha&show_icons=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebrasha&hide_progress=true)
-
- 
- 
 
  <p>    <img src="https://skillicons.dev/icons?i=c,cs,php,powershell,bash,cpp,django,git,go,java,kubernetes,laravel,mysql,postgres,postman,py,js,html,css,bsd,linux,tailwind,unity,webpack,wordpress,arduino,raspberrypi,redux,react,nextjs,nginx,sqlite,nodejs,gitlab,github,electron,docker,bootstrap,qt,regex,kotlin,visualstudio" />
 
