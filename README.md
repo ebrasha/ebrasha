@@ -4,6 +4,6 @@
 - 💞️ I’m looking to collaborate on any type of security project.
 - 📫 How to reach me: Prof.Shafiei@Gmail.com
 
- <p>    <img src="https://skillicons.dev/icons?i=c,cs,php,powershell,bash,cpp,django,git,go,java,kubernetes,laravel,mysql,postgres,postman,py,js,html,css,bsd,linux,tailwind,unity,webpack,wordpress,arduino,raspberrypi,redux,react,nextjs,nginx,sqlite,nodejs,gitlab,github,electron,docker,bootstrap,qt,regex,kotlin,visualstudio" />
+ <p>    <img src="https://skillicons.dev/icons?i=c,cs,php,powershell,cloudflare,dotnet,rust,bash,cpp,django,git,go,java,kubernetes,laravel,mysql,postgres,postman,py,js,html,css,bsd,linux,tailwind,unity,webpack,wordpress,arduino,raspberrypi,redux,react,nextjs,nginx,sqlite,nodejs,gitlab,github,electron,docker,bootstrap,qt,regex,kotlin,visualstudio" />
 
 </p>
