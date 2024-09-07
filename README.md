@@ -5,12 +5,11 @@
 - 📫 How to reach me: Prof.Shafiei@Gmail.com
 
 <p align="center">
- <img src="icons/blackwin.png" width="40" height="40" alt="blackwin" />
+<img src="icons/blackwin.png" width="40" height="40" alt="blackwin" />
 <img src="icons/c.png" width="40" height="40" alt="c" />
 <img src="icons/cpp.png" width="40" height="40" alt="cpp" />
 <img src="icons/cs.png" width="40" height="40" alt="cs" />
 <img src="icons/go.png" width="40" height="40" alt="go" />
-<img src="icons/html.png" width="40" height="40" alt="html" />
 <img src="icons/java.png" width="40" height="40" alt="java" />
 <img src="icons/js.png" width="40" height="40" alt="js" />
 <img src="icons/php.png" width="40" height="40" alt="php" />
@@ -19,7 +18,9 @@
 <img src="icons/swift.png" width="40" height="40" alt="swift" />
 <img src="icons/arduino.png" width="40" height="40" alt="arduino" />
 <img src="icons/bootstrap.png" width="40" height="40" alt="bootstrap" />
+<img src="icons/deno.png" width="40" height="40" alt="django" />
 <img src="icons/django.png" width="40" height="40" alt="django" />
+<img src="icons/html.png" width="40" height="40" alt="html" />
 <img src="icons/electronjs.png" width="40" height="40" alt="electronjs" />
 <img src="icons/flask.png" width="40" height="40" alt="flask" />
 <img src="icons/laravel.png" width="40" height="40" alt="laravel" />
@@ -33,14 +34,14 @@
 <img src="icons/github.png" width="40" height="40" alt="github" />
 <img src="icons/gitlab.png" width="40" height="40" alt="gitlab" />
 <img src="icons/nginx.png" width="40" height="40" alt="nginx" />
+<img src="icons/litespeed.png" width="40" height="40" alt="litespeed" />
+<img src="icons/apache.png" width="40" height="40" alt="apache" />
 <img src="icons/cloudflare.png" width="40" height="40" alt="cloudflare" />
 <img src="icons/amazon.png" width="40" height="40" alt="amazon" />
 <img src="icons/android.png" width="40" height="40" alt="android" />
-<img src="icons/apache.png" width="40" height="40" alt="apache" />
 <img src="icons/debian.png" width="40" height="40" alt="debian" />
 <img src="icons/docker.png" width="40" height="40" alt="docker" />
 <img src="icons/linux.png" width="40" height="40" alt="linux" />
-<img src="icons/litespeed.png" width="40" height="40" alt="litespeed" />
 <img src="icons/mongodb.png" width="40" height="40" alt="mongodb" />
 <img src="icons/mysql.png" width="40" height="40" alt="mysql" />
 <img src="icons/netbsd.png" width="40" height="40" alt="netbsd" />
@@ -53,6 +54,7 @@
 <img src="icons/clion.png" width="40" height="40" alt="clion" />
 <img src="icons/freebsd.png" width="40" height="40" alt="freebsd" />
 <img src="icons/openbsd.png" width="40" height="40" alt="openbsd" />
+<img src="icons/wordpress.png" width="40" height="40" alt="openbsd" />
 <img src="icons/CPENT.png" width="40" height="40" alt="CPENT" />
 <img src="icons/ceh.png" width="40" height="40" alt="CEH" />
 <img src="icons/CCISO.png" width="40" height="40" alt="CCISO" />
