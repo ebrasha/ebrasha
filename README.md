@@ -54,7 +54,7 @@
 <img src="icons/clion.png" width="40" height="40" alt="clion" />
 <img src="icons/freebsd.png" width="40" height="40" alt="freebsd" />
 <img src="icons/openbsd.png" width="40" height="40" alt="openbsd" />
-<img src="icons/wordpress.png" width="40" height="40" alt="openbsd" />
+<img src="icons/wordpress.png" width="40" height="40" alt="wordpress" />
 <img src="icons/CPENT.png" width="40" height="40" alt="CPENT" />
 <img src="icons/ceh.png" width="40" height="40" alt="CEH" />
 <img src="icons/CCISO.png" width="40" height="40" alt="CCISO" />
