@@ -44,7 +44,7 @@
 <img src="icons/mongodb.png" width="40" height="40" alt="mongodb" />
 <img src="icons/mysql.png" width="40" height="40" alt="mysql" />
 <img src="icons/netbsd.png" width="40" height="40" alt="netbsd" />
-<img src="icons/netjs.png" width="40" height="40" alt="netjs" />
+<img src="icons/netxjs.png" width="40" height="40" alt="netjs" />
 <img src="icons/raspberrypi.png" width="40" height="40" alt="raspberrypi" />
 <img src="icons/redhat.png" width="40" height="40" alt="redhat" />
 <img src="icons/ubuntu.png" width="40" height="40" alt="ubuntu" />
@@ -54,7 +54,7 @@
 <img src="icons/freebsd.png" width="40" height="40" alt="freebsd" />
 <img src="icons/openbsd.png" width="40" height="40" alt="openbsd" />
 <img src="icons/CPENT.png" width="40" height="40" alt="CPENT" />
-<img src="icons/CEH.png" width="40" height="40" alt="CEH" />
+<img src="icons/ceh.png" width="40" height="40" alt="CEH" />
 <img src="icons/CCISO.png" width="40" height="40" alt="CCISO" />
 <img src="icons/CHFI.png" width="40" height="40" alt="CHFI" />
 
