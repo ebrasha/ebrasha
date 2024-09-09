@@ -25,6 +25,7 @@
 <img src="icons/flask.png" width="40" height="40" alt="flask" />
 <img src="icons/laravel.png" width="40" height="40" alt="laravel" />
 <img src="icons/nodejs.png" width="40" height="40" alt="nodejs" />
+<img src="icons/react.png" width="40" height="40" alt="nodejs" />
 <img src="icons/powershell.png" width="40" height="40" alt="powershell" />
 <img src="icons/puppet.png" width="40" height="40" alt="puppet" />
 <img src="icons/dotnet.png" width="40" height="40" alt="dotnet" />
@@ -51,7 +52,7 @@
 <img src="icons/ubuntu.png" width="40" height="40" alt="ubuntu" />
 <img src="icons/burpsuite.png" width="40" height="40" alt="burpsuite" />
 <img src="icons/centos.png" width="40" height="40" alt="centos" />
-<img src="icons/clion.png" width="40" height="40" alt="clion" />
+<img src="icons/jetbrains.png" width="40" height="40" alt="clion" />
 <img src="icons/freebsd.png" width="40" height="40" alt="freebsd" />
 <img src="icons/openbsd.png" width="40" height="40" alt="openbsd" />
 <img src="icons/wordpress.png" width="40" height="40" alt="wordpress" />
