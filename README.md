@@ -10,11 +10,12 @@
 <img src="icons/cpp.png" width="40" height="40" alt="cpp" />
 <img src="icons/cs.png" width="40" height="40" alt="cs" />
 <img src="icons/go.png" width="40" height="40" alt="go" />
-<img src="icons/java.png" width="40" height="40" alt="java" />
-<img src="icons/js.png" width="40" height="40" alt="js" />
+<img src="icons/kotlin.png" width="40" height="40" alt="go" />
 <img src="icons/php.png" width="40" height="40" alt="php" />
 <img src="icons/python.png" width="40" height="40" alt="python" />
-<img src="icons/r.png" width="40" height="40" alt="r" />
+<img src="icons/java.png" width="40" height="40" alt="java" />
+<img src="icons/js.png" width="40" height="40" alt="js" />
+<img src="icons/rust.png" width="40" height="40" alt="r" />
 <img src="icons/swift.png" width="40" height="40" alt="swift" />
 <img src="icons/arduino.png" width="40" height="40" alt="arduino" />
 <img src="icons/bootstrap.png" width="40" height="40" alt="bootstrap" />
