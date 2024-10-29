@@ -1,8 +1,9 @@
-- 👋 Hi, I’m Ebrahim Shafiei (EbraSha)
-- 👀 I’m interested in AI, cybersecurity, and programming.
-- 🎤 "Coding is an engaging and beloved hobby for me. I passionately and insatiably pursue knowledge in cybersecurity and programming." Ebrahim Shafiei (EbraSha)
-- 💞️ I’m looking to collaborate on any type of security project.
-- 📫 How to reach me: Prof.Shafiei@Gmail.com
+### 👋 Hello, I'm Ebrahim Shafiei (EbraSha)
+- 👀 **Fields of Interest:** Advanced Artificial Intelligence, Cybersecurity, and High-Level Programming
+- 🎤 *"Coding is an engaging and beloved hobby for me. I passionately and insatiably pursue knowledge in cybersecurity and programming."* — Ebrahim Shafiei (EbraSha)
+- 💼 **Open to Collaboration:** Actively seeking collaborations on innovative cybersecurity and AI projects that drive meaningful impact.
+- 📫 **Connect with Me:** Reach out via email at **[Prof.Shafiei@gmail.com](mailto:Prof.Shafiei@gmail.com)**
+
 
 <p align="center">
 <img src="icons/blackwin.png" width="40" height="40" alt="blackwin" />
