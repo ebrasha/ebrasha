@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Ebrahim Shafiei (EbraSha)
-- 👀 **Fields of Interest:** Advanced Artificial Intelligence, Cybersecurity, and High-Level Programming
+- 👀 **Fields of Interest:** Advanced Artificial Intelligence, Cybersecurity, and Low-Level Security Programming (Assembly, Reverse Engineering) as well as High-Level Development for Complex Software Projects
 - 🎤 *"Coding is an engaging and beloved hobby for me. I passionately and insatiably pursue knowledge in cybersecurity and programming."* — Ebrahim Shafiei (EbraSha)
 - 💼 **Open to Collaboration:** Actively seeking collaborations on innovative cybersecurity and AI projects that drive meaningful impact.
 - 📫 **Connect with Me:** Reach out via email at **[Prof.Shafiei@gmail.com](mailto:Prof.Shafiei@gmail.com)**
