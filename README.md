@@ -1,5 +1,5 @@
 ### 👋 Hello, I'm Ebrahim Shafiei (EbraSha)
-- 👀 **Fields of Interest:** Advanced Artificial Intelligence, Cybersecurity, and Low-Level Security Programming (Assembly, Reverse Engineering) as well as High-Level Development for Complex Software Projects.
+- 👀 **Fields of Interest:** Advanced Artificial Intelligence Systems, Cybersecurity Engineering, Low-Level Security Programming (Assembly, Reverse Engineering), and High-Level Software Development for Large-Scale and Mission-Critical Projects.
 - 🎤 *"Coding is an engaging and beloved hobby for me. I passionately and insatiably pursue knowledge in cybersecurity and programming."* — Ebrahim Shafiei (EbraSha)
 - 🎤 *"The reason your system is running smoothly is simply because I haven't decided to take it down."* — Ebrahim Shafiei (EbraSha)
 - 🎤 *"I don't follow companies—I follow challenges that shape tomorrow."* — Ebrahim Shafiei (EbraSha)
