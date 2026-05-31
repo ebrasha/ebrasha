@@ -9,29 +9,29 @@
 
 
 
-<p align="center">
+ <p align="center">
 <img src="icons/blackwin.png" width="40" height="40" alt="blackwin" />
 <img src="icons/c.png" width="40" height="40" alt="c" />
 <img src="icons/cpp.png" width="40" height="40" alt="cpp" />
 <img src="icons/cs.png" width="40" height="40" alt="cs" />
 <img src="icons/go.png" width="40" height="40" alt="go" />
-<img src="icons/kotlin.png" width="40" height="40" alt="go" />
+<img src="icons/kotlin.png" width="40" height="40" alt="kotlin" />
 <img src="icons/php.png" width="40" height="40" alt="php" />
 <img src="icons/python.png" width="40" height="40" alt="python" />
 <img src="icons/java.png" width="40" height="40" alt="java" />
 <img src="icons/js.png" width="40" height="40" alt="js" />
-<img src="icons/rust.png" width="40" height="40" alt="r" />
+<img src="icons/rust.png" width="40" height="40" alt="rust" />
 <img src="icons/swift.png" width="40" height="40" alt="swift" />
 <img src="icons/arduino.png" width="40" height="40" alt="arduino" />
 <img src="icons/bootstrap.png" width="40" height="40" alt="bootstrap" />
-<img src="icons/deno.png" width="40" height="40" alt="django" />
+<img src="icons/deno.png" width="40" height="40" alt="deno" />
 <img src="icons/django.png" width="40" height="40" alt="django" />
 <img src="icons/html.png" width="40" height="40" alt="html" />
 <img src="icons/electronjs.png" width="40" height="40" alt="electronjs" />
 <img src="icons/flask.png" width="40" height="40" alt="flask" />
 <img src="icons/laravel.png" width="40" height="40" alt="laravel" />
 <img src="icons/nodejs.png" width="40" height="40" alt="nodejs" />
-<img src="icons/react.png" width="40" height="40" alt="nodejs" />
+<img src="icons/react.png" width="40" height="40" alt="react" />
 <img src="icons/powershell.png" width="40" height="40" alt="powershell" />
 <img src="icons/puppet.png" width="40" height="40" alt="puppet" />
 <img src="icons/dotnet.png" width="40" height="40" alt="dotnet" />
@@ -52,19 +52,18 @@
 <img src="icons/mongodb.png" width="40" height="40" alt="mongodb" />
 <img src="icons/mysql.png" width="40" height="40" alt="mysql" />
 <img src="icons/netbsd.png" width="40" height="40" alt="netbsd" />
-<img src="icons/netxjs.png" width="40" height="40" alt="netjs" />
+<img src="icons/netxjs.png" width="40" height="40" alt="netxjs" />
 <img src="icons/raspberrypi.png" width="40" height="40" alt="raspberrypi" />
 <img src="icons/redhat.png" width="40" height="40" alt="redhat" />
 <img src="icons/ubuntu.png" width="40" height="40" alt="ubuntu" />
 <img src="icons/burpsuite.png" width="40" height="40" alt="burpsuite" />
 <img src="icons/centos.png" width="40" height="40" alt="centos" />
-<img src="icons/jetbrains.png" width="40" height="40" alt="clion" />
+<img src="icons/jetbrains.png" width="40" height="40" alt="jetbrains" />
 <img src="icons/freebsd.png" width="40" height="40" alt="freebsd" />
 <img src="icons/openbsd.png" width="40" height="40" alt="openbsd" />
 <img src="icons/wordpress.png" width="40" height="40" alt="wordpress" />
 <img src="icons/CPENT.png" width="40" height="40" alt="CPENT" />
-<img src="icons/ceh.png" width="40" height="40" alt="CEH" />
+<img src="icons/ceh.png" width="40" height="40" alt="ceh" />
 <img src="icons/CCISO.png" width="40" height="40" alt="CCISO" />
 <img src="icons/CHFI.png" width="40" height="40" alt="CHFI" />
-
 </p>
