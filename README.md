@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Ebrahim Shafiei (EbraSha)
 ## Founder & Leader of Abdal Security Group
-- 👀 **What I Do:** Architecting Advanced AI Systems, engineering robust Cybersecurity solutions, performing Low-Level Security analysis (Assembly/RE), and building Large-Scale, Mission-Critical Software.
+- 👀 **What I Do:** I work across multiple technology disciplines, architecting advanced AI systems, engineering robust cybersecurity solutions, conducting low-level security research and analysis (Assembly/Reverse Engineering), and building large-scale, mission-critical software.
 - 🎤 *"Coding is an engaging and beloved hobby for me. I passionately and insatiably pursue knowledge in cybersecurity and programming."* — Ebrahim Shafiei (EbraSha)
 - 🎤 *"I don't follow companies—I follow challenges that shape tomorrow."* — Ebrahim Shafiei (EbraSha)
 - 💼 **Open to Collaboration:** Actively seeking collaborations on innovative cybersecurity and AI projects that drive meaningful impact.
